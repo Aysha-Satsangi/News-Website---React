@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Taiwan sees MeToo wave of allegations after Netflix show",
+            "description": "Taiwan has seen a wave of allegations of sexual assault and harassment against high-profile men.",
+            "url": "http://www.bbc.co.uk/news/world-asia-65875474",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2B27/production/_130074011_secondcharacter.jpg",
+            "publishedAt": "2023-06-15T00:22:17.317615Z",
+            "content": "Taiwan is being rocked by a wave of sexual harassment and assault allegations - sparked by a Netflix show which many say has ignited a local MeToo movement.\r\nMore than 90 people have spoken out in th… [+8573 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Mike Mahardy",
+            "title": "Midnight Mass director wants to work with Control, Alan Wake creator",
+            "description": "Mike Flanagan, director of Netflix horror series The Haunting of Hill House and Midnight Mass, said he would love a future collaboration with Remedy Entertainment’s Sam Lake.",
+            "url": "https://www.polygon.com/23760791/alan-wake-2-midnight-mass-mike-flanagan-sam-lake",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dwORP-GBQ_ZHGv4iVV3axKLlJI0=/0x0:1460x764/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24727018/alan_wake_2_saga_anderson_survival_horror.jpeg",
+            "publishedAt": "2023-06-14T16:22:21Z",
+            "content": "With the upcoming Alan Wake 2, creative director and writer Sam Lake is further expanding the shared universe of Remedy Entertainments video games. It turns out, horror movie director Mike Flanagan w… [+2011 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "'Black Mirror' Creator Charlie Brooker Wants to Break the Content Machine",
+            "description": "After years of exploring society’s dark absurdities, the sixth season of Netflix’s wildly popular sci-fi show looks at its own reflection.",
+            "url": "https://www.wired.com/story/black-mirror-charlie-brooker-q-and-a-season-6/",
+            "urlToImage": "https://media.wired.com/photos/6488efc093ba5cd8bbdc955b/191:100/w_1280,c_limit/Charlie-Brooker-Q&A-Culture-Credit-Michael%20Wharley.jpg",
+            "publishedAt": "2023-06-14T10:00:00Z",
+            "content": "Did that make you want to lighten the mood? Or really delve deeper into the darkness?\r\nI started in a way thinking, Well, I dont want to write another episode about what Ive already written lots of e… [+3027 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Tom Power",
+            "title": "Netflix Tudum 2023: how to watch, start date and time, movies, TV shows and more",
+            "description": "Netflix Tudum is being held on Saturday, June 17",
+            "url": "https://www.techradar.com/news/netflix-tudum-2023-how-to-watch-start-date-and-time-movies-tv-shows-and-more",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wyFLs5M5TYKEH77qHPSwJh-1200-80.jpg",
+            "publishedAt": "2023-06-14T08:00:00Z",
+            "content": "Netflix Tudum is right around the corner. The streaming giant's annual global fan event, which began in January 2020, is back for its fifth outing this year – and if you're anything like us, you'll b… [+6492 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Collier Jennings",
+            "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+            "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+            "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+            "publishedAt": "2022-09-01T18:03:14Z",
+            "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+        }
+    ]
+}
